@@ -1,0 +1,3 @@
+replaced json from alias to class
+need to update CMakeLists for new files
+complete json support
